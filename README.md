@@ -85,21 +85,3 @@ RA: 09054758
 Curso: Engenharia de Software
 Polo: UNIPAR Francisco Beltrão - Paraná
 Cidade/Estado: Francisco Beltrão - PR
-
-Referências
-
-W3Schools – https://www.w3schools.com
-
-PHP Manual – https://www.php.net/manual/pt_BR
-
-Haverbeke, Marijn. JavaScript Eloquente – 2ª Edição.
-
-Chacon, Scott; Straub, Ben. Pro Git – 2ª Edição.
-
-Segurado, Valquíria Santos. Projeto de Interface com o Usuário. Biblioteca Virtual UNIPAR, 2024.
-
-Materiais complementares do Prof. Carlos Eduardo Simões Pelegrin — UNIPAR (2025).
-
-Licença
-
-Este projeto é de uso acadêmico e educativo, desenvolvido para fins de aprendizado e demonstração prática de fundamentos de desenvolvimento web.
